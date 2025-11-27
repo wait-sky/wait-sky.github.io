@@ -1,0 +1,18 @@
+[
+  {
+    "text": "关于我",
+    "link": "/introduction/"
+  },
+  {
+    "text": "博客介绍",
+    "link": "/introduction/blog/"
+  },
+  {
+    "text": "联系方式",
+    "link": "/introduction/contact/"
+  },
+  {
+    "text": "个人履历",
+    "link": "/introduction/resume/"
+  }
+]

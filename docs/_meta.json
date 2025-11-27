@@ -1,0 +1,30 @@
+[
+  {
+    "text": "介绍",
+    "link": "/introduction/"
+  },
+  {
+    "text": "技术",
+    "link": "/technology/"
+  },
+  {
+    "text": "成长故事",
+    "link": "/growth/"
+  },
+  {
+    "text": "技术记录",
+    "link": "/tech-notes/"
+  },
+  {
+    "text": "生活随笔",
+    "link": "/life/"
+  },
+  {
+    "text": "AI探索",
+    "link": "/ai/"
+  },
+  {
+    "text": "文档",
+    "link": "/docs/"
+  }
+]
