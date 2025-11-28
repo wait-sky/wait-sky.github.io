@@ -13,16 +13,19 @@
 工作后，我更加注重实践和应用，学习了以下内容：
 
 ### 前端技术
+
 - React、Vue、Angular 等现代框架
 - TypeScript、Webpack、Vite 等工具链
 - 响应式设计、性能优化、无障碍设计
 
 ### 后端技术
+
 - Node.js、Express、NestJS
 - MySQL、MongoDB、Redis
 - RESTful API、GraphQL
 
 ### AI 技术
+
 - 机器学习基础、深度学习
 - TensorFlow、PyTorch
 - 自然语言处理、计算机视觉

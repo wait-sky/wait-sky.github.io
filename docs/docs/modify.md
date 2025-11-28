@@ -34,7 +34,7 @@
     "text": "新的导航名称",
     "link": "/path/",
     "activeMatch": "/path/"
-  },
+  }
   // 其他导航项
 ]
 ```
@@ -48,7 +48,7 @@
   {
     "text": "新的子导航名称",
     "link": "/technology/new-page/"
-  },
+  }
   // 其他子导航项
 ]
 ```

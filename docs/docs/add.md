@@ -145,36 +145,36 @@ import React from 'react';
 import { Table } from 'antd';
 
 const dataSource = [
-  {
-    key: '1',
-    name: '张三',
-    age: 32,
-    address: '北京',
-  },
-  {
-    key: '2',
-    name: '李四',
-    age: 42,
-    address: '上海',
-  },
+{
+key: '1',
+name: '张三',
+age: 32,
+address: '北京',
+},
+{
+key: '2',
+name: '李四',
+age: 42,
+address: '上海',
+},
 ];
 
 const columns = [
-  {
-    title: '姓名',
-    dataIndex: 'name',
-    key: 'name',
-  },
-  {
-    title: '年龄',
-    dataIndex: 'age',
-    key: 'age',
-  },
-  {
-    title: '地址',
-    dataIndex: 'address',
-    key: 'address',
-  },
+{
+title: '姓名',
+dataIndex: 'name',
+key: 'name',
+},
+{
+title: '年龄',
+dataIndex: 'age',
+key: 'age',
+},
+{
+title: '地址',
+dataIndex: 'address',
+key: 'address',
+},
 ];
 
 <Table dataSource={dataSource} columns={columns} />
@@ -249,8 +249,8 @@ $$
 ## 添加表格
 
 ```markdown
-| 列1 | 列2 | 列3 |
-| --- | --- | --- |
+| 列1    | 列2    | 列3    |
+| ------ | ------ | ------ |
 | 行1列1 | 行1列2 | 行1列3 |
 | 行2列1 | 行2列2 | 行2列3 |
 | 行3列1 | 行3列2 | 行3列3 |
@@ -282,7 +282,7 @@ $$
 
 ```markdown
 > 这是一段引用文本。
-> 
+>
 > 引用可以有多行。
 ```
 
@@ -291,7 +291,7 @@ $$
 ```markdown
 **粗体文本**
 
-*斜体文本*
+_斜体文本_
 
-***粗斜体文本***
+**_粗斜体文本_**
 ```

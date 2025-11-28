@@ -12,16 +12,20 @@
     "link": "/growth/"
   },
   {
-    "text": "技术记录",
-    "link": "/tech-notes/"
-  },
-  {
     "text": "生活随笔",
     "link": "/life/"
   },
   {
     "text": "AI探索",
     "link": "/ai/"
+  },
+  {
+    "text": "前端开发",
+    "link": "/frontend/"
+  },
+  {
+    "text": "后端开发",
+    "link": "/backend/"
   },
   {
     "text": "文档",

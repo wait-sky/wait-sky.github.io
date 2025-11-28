@@ -52,7 +52,7 @@ npm run preview
 ## 目录结构说明
 
 - **docs/**：存放所有文档内容
-- **docs/[category]/_meta.json**：每个栏目的导航配置
+- **docs/[category]/\_meta.json**：每个栏目的导航配置
 - **docs/[category]/index.md**：每个栏目的主页
 - **docs/[category]/[subpage].md**：每个栏目的子页面
 - **rspress.config.ts**：配置博客的标题、主题、国际化等
@@ -80,7 +80,7 @@ export default defineConfig({
     "text": "导航名称",
     "link": "/path/",
     "activeMatch": "/path/"
-  },
+  }
   // ...
 ]
 ```
